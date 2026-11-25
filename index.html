@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0b1830">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="EDG Offline">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="apple-touch-icon" href="./assets/icon.png">
+  <link rel="stylesheet" href="./styles.css">
+  <title>EDG Offline</title>
+</head>
+<body>
+  <header class="topbar">
+    <img src="./assets/icon.png" alt="" class="app-icon">
+    <div><strong>EDG Offline</strong><small id="connection">Préparation du contenu…</small></div>
+    <button id="install" class="quiet" hidden>Installer</button>
+  </header>
+  <main id="app" aria-live="polite"></main>
+  <nav class="bottom-nav" aria-label="Navigation principale">
+    <button data-page="home" class="active">Aujourd’hui</button>
+    <button data-page="sheets">Fiches</button>
+    <button data-page="portraits">Portraits</button>
+    <button data-page="review">Révisions</button>
+    <button data-page="progress">Suivi</button>
+  </nav>
+  <input id="packFile" type="file" accept="application/json,.json" hidden>
+  <script src="./app.js" defer></script>
+</body>
+</html>

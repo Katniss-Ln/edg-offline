@@ -1,0 +1,468 @@
+{
+  "readings": [
+    {
+      "id": "mahan-sea-power",
+      "title": "Mahan and the sea as a highway",
+      "theme": "Puissance maritime · 1890",
+      "english": "A navy does more than win battles. It protects the routes that connect ports, markets and allies. A state that depends on overseas trade must consider how it will keep those routes open during a crisis. Ships, bases, repair facilities and trained crews all matter. Yet sea power is not simply the size of a fleet: it also depends on political purpose, commercial strength and the ability to sustain operations over time.",
+      "french": "Une marine ne sert pas seulement à gagner des batailles. Elle protège les routes qui relient les ports, les marchés et les alliés. Un État dépendant du commerce outre-mer doit réfléchir à la manière de garder ces routes ouvertes pendant une crise. Les navires, les bases, les installations de réparation et les équipages entraînés comptent tous. Pourtant, la puissance maritime ne se résume pas à la taille d’une flotte : elle dépend aussi du but politique, de la force commerciale et de la capacité à soutenir les opérations dans la durée.",
+      "vocabulary": [
+        "navy — marine",
+        "route — route maritime",
+        "overseas trade — commerce outre-mer",
+        "to sustain — soutenir dans la durée",
+        "fleet — flotte"
+      ],
+      "source": "Texte pédagogique original inspiré des thèmes de Mahan ; référence historique : The Influence of Sea Power upon History, 1660–1783 (1890).",
+      "accent": "en-GB",
+      "level": "B2 · intermédiaire avancé",
+      "materialType": "Texte pédagogique original",
+      "quiz": [
+        {
+          "id": "mahan-q1",
+          "question": "According to the text, what does a navy protect?",
+          "options": [
+            "Only naval bases",
+            "Routes connecting ports, markets and allies",
+            "Land borders only"
+          ],
+          "correctIndex": 1,
+          "explanation": "The passage presents sea routes as links between ports, markets and allies."
+        },
+        {
+          "id": "mahan-q2",
+          "question": "Which factor is NOT presented as part of sea power?",
+          "options": [
+            "Political purpose",
+            "Sustainment over time",
+            "Fleet size alone"
+          ],
+          "correctIndex": 2,
+          "explanation": "The text explicitly says sea power is not simply the size of a fleet."
+        },
+        {
+          "id": "mahan-q3",
+          "question": "What does “to sustain operations” mean?",
+          "options": [
+            "To continue supporting operations over time",
+            "To stop an operation suddenly",
+            "To avoid all maintenance"
+          ],
+          "correctIndex": 0,
+          "explanation": "“Sustain” means keep an activity going, including through crews, bases and repairs."
+        }
+      ],
+      "expressions": [
+        "keep routes open — maintenir les routes ouvertes",
+        "overseas trade — commerce outre-mer",
+        "in the long term — à long terme"
+      ]
+    },
+    {
+      "id": "corbett-maritime-strategy",
+      "title": "Corbett and the limits of sea control",
+      "theme": "Stratégie maritime · 1911",
+      "english": "Control of the sea is never an abstract prize. It matters because it allows a force to use maritime space for a particular purpose. That control may be local and temporary. A fleet can protect a convoy, support a landing or prevent an opponent from using a passage without controlling every part of the ocean. Maritime strategy must therefore be connected to the political aim and to operations on land.",
+      "french": "La maîtrise de la mer n’est jamais une récompense abstraite. Elle importe parce qu’elle permet à une force d’utiliser l’espace maritime pour un objectif précis. Cette maîtrise peut être locale et temporaire. Une flotte peut protéger un convoi, soutenir un débarquement ou empêcher un adversaire d’emprunter un passage sans contrôler chaque partie de l’océan. La stratégie maritime doit donc être reliée au but politique et aux opérations terrestres.",
+      "vocabulary": [
+        "control of the sea — maîtrise de la mer",
+        "particular purpose — objectif précis",
+        "convoy — convoi",
+        "landing — débarquement",
+        "passage — passage maritime"
+      ],
+      "source": "Texte pédagogique original inspiré de Some Principles of Maritime Strategy (1911), ouvrage de Julian Corbett.",
+      "accent": "en-GB",
+      "level": "B2 · intermédiaire avancé",
+      "materialType": "Texte pédagogique original",
+      "quiz": [
+        {
+          "id": "corbett-q1",
+          "question": "Why does control of the sea matter in the passage?",
+          "options": [
+            "It is a prize in itself",
+            "It enables a force to use maritime space for a purpose",
+            "It removes the need for land forces"
+          ],
+          "correctIndex": 1,
+          "explanation": "Corbett links sea control to a concrete purpose and to operations on land."
+        },
+        {
+          "id": "corbett-q2",
+          "question": "Can sea control be local and temporary?",
+          "options": [
+            "Yes",
+            "No, it must cover every ocean",
+            "Only in peacetime"
+          ],
+          "correctIndex": 0,
+          "explanation": "The passage says control may be local and temporary."
+        },
+        {
+          "id": "corbett-q3",
+          "question": "What is a convoy?",
+          "options": [
+            "A group of ships travelling together, often under protection",
+            "A naval base",
+            "A type of missile"
+          ],
+          "correctIndex": 0,
+          "explanation": "A convoy is a group of vessels travelling together, usually with an escort."
+        }
+      ],
+      "expressions": [
+        "for a particular purpose — dans un but précis",
+        "to prevent an opponent from — empêcher un adversaire de",
+        "to be connected to — être lié à"
+      ]
+    },
+    {
+      "id": "clausewitz-policy",
+      "title": "Clausewitz: war and political purpose",
+      "theme": "Pensée stratégique · 1832",
+      "english": "War is not separate from politics. It is a violent instrument used to pursue a political purpose. Military success therefore has to be judged against the objective it was meant to achieve. A battle may be won while the political aim remains out of reach. Uncertainty, friction and the choices of the opponent can change both the means and the purpose of a campaign.",
+      "french": "La guerre n’est pas séparée de la politique. C’est un instrument violent employé pour poursuivre un objectif politique. Le succès militaire doit donc être évalué à l’aune du but qu’il devait permettre d’atteindre. Une bataille peut être gagnée alors que l’objectif politique reste hors d’atteinte. L’incertitude, les frictions et les choix de l’adversaire peuvent modifier à la fois les moyens et le but d’une campagne.",
+      "vocabulary": [
+        "instrument — instrument",
+        "purpose — objectif",
+        "to achieve — atteindre",
+        "uncertainty — incertitude",
+        "friction — friction"
+      ],
+      "source": "Texte pédagogique original inspiré de De la guerre de Carl von Clausewitz, publié à titre posthume à partir de 1832.",
+      "accent": "en-GB",
+      "level": "C1 · avancé",
+      "materialType": "Texte pédagogique original",
+      "quiz": [
+        {
+          "id": "clausewitz-q1",
+          "question": "How does the passage describe war?",
+          "options": [
+            "As separate from politics",
+            "As an instrument used to pursue a political purpose",
+            "As a purely economic activity"
+          ],
+          "correctIndex": 1,
+          "explanation": "The central idea is that military action serves a political purpose."
+        },
+        {
+          "id": "clausewitz-q2",
+          "question": "Can a battle be won while the political aim remains unmet?",
+          "options": [
+            "Yes",
+            "No",
+            "Only at sea"
+          ],
+          "correctIndex": 0,
+          "explanation": "The passage distinguishes battlefield success from achieving the political objective."
+        },
+        {
+          "id": "clausewitz-q3",
+          "question": "What does “friction” point to?",
+          "options": [
+            "The gap between a plan and the difficulties of real action",
+            "A naval blockade",
+            "A treaty clause"
+          ],
+          "correctIndex": 0,
+          "explanation": "Friction describes uncertainty and practical obstacles in war."
+        }
+      ],
+      "expressions": [
+        "to pursue an objective — poursuivre un objectif",
+        "to be judged against — être évalué à l’aune de",
+        "out of reach — hors d’atteinte"
+      ]
+    },
+    {
+      "id": "deterrence-signals",
+      "title": "Deterrence and strategic signals",
+      "theme": "Dissuasion · Guerre froide",
+      "english": "Deterrence depends on more than weapons. An opponent must believe that a state has the capability and the resolve to respond. Signals can reduce uncertainty, but they can also be misunderstood. A credible strategy combines military readiness with clear political communication and channels that help prevent an incident from becoming a crisis. Deterrence may limit some choices; it does not remove competition or the risk of error.",
+      "french": "La dissuasion dépend de plus que des armes. L’adversaire doit croire qu’un État possède la capacité et la volonté de répondre. Les signaux peuvent réduire l’incertitude, mais ils peuvent aussi être mal compris. Une stratégie crédible associe la préparation militaire à une communication politique claire et à des canaux qui aident à empêcher un incident de devenir une crise. La dissuasion peut limiter certains choix ; elle ne supprime ni la compétition ni le risque d’erreur.",
+      "vocabulary": [
+        "resolve — volonté",
+        "to respond — répondre",
+        "to misunderstand — mal comprendre",
+        "readiness — préparation",
+        "incident — incident"
+      ],
+      "source": "Texte pédagogique original ; notions présentées comme synthèse de la littérature sur la dissuasion.",
+      "accent": "en-US",
+      "level": "B2 · intermédiaire avancé",
+      "materialType": "Texte pédagogique original",
+      "quiz": [
+        {
+          "id": "deterrence-q1",
+          "question": "What must an opponent believe for deterrence to work?",
+          "options": [
+            "That a state has capability and resolve",
+            "That no crisis can occur",
+            "That every signal is unambiguous"
+          ],
+          "correctIndex": 0,
+          "explanation": "Deterrence requires both the means and the perceived willingness to respond."
+        },
+        {
+          "id": "deterrence-q2",
+          "question": "Do strategic signals always prevent misunderstanding?",
+          "options": [
+            "Yes",
+            "No; they can also be misunderstood",
+            "Only during peace"
+          ],
+          "correctIndex": 1,
+          "explanation": "The text warns that signals can reduce uncertainty but can also be misread."
+        },
+        {
+          "id": "deterrence-q3",
+          "question": "Does deterrence eliminate competition?",
+          "options": [
+            "Yes",
+            "No",
+            "Only between allies"
+          ],
+          "correctIndex": 1,
+          "explanation": "The passage says deterrence limits some choices but does not remove competition or error."
+        }
+      ],
+      "expressions": [
+        "to depend on — dépendre de",
+        "to respond to a threat — répondre à une menace",
+        "to prevent an incident from escalating — empêcher un incident de s’aggraver"
+      ]
+    },
+    {
+      "id": "ukraine-resilience-briefing",
+      "title": "Ukraine: resilience under pressure",
+      "theme": "Briefing international · accent britannique",
+      "accent": "en-GB",
+      "level": "C1 · avancé",
+      "materialType": "Texte pédagogique original · synthèse non actualisée en temps réel",
+      "english": "A prolonged conflict tests more than the strength of the armed forces. It also tests a country's ability to repair damaged infrastructure, protect civilians and keep essential services running. Electricity, transport and communications can become strategic targets because they support both daily life and military logistics. External assistance may help, but it cannot replace local capacity or political decision-making. When assessing a ceasefire proposal, analysts ask whether it can be monitored, whether violations would have consequences, and whether it addresses the causes of renewed fighting. A pause in combat is not automatically a durable settlement.",
+      "french": "Un conflit prolongé met à l’épreuve davantage que la puissance des forces armées. Il teste aussi la capacité d’un pays à réparer les infrastructures endommagées, protéger les civils et maintenir les services essentiels. L’électricité, les transports et les communications peuvent devenir des cibles stratégiques, car ils soutiennent à la fois la vie quotidienne et la logistique militaire. Une aide extérieure peut être utile, mais elle ne remplace ni les capacités locales ni la décision politique. Pour évaluer une proposition de cessez-le-feu, les analystes se demandent si elle peut être surveillée, si les violations auront des conséquences et si elle traite les causes d’une reprise des combats. Une pause n’est pas automatiquement un règlement durable.",
+      "vocabulary": [
+        "prolonged conflict — conflit prolongé",
+        "essential services — services essentiels",
+        "to monitor — surveiller / vérifier",
+        "ceasefire — cessez-le-feu",
+        "durable settlement — règlement durable"
+      ],
+      "expressions": [
+        "to keep services running — maintenir les services en fonctionnement",
+        "to address the causes — traiter les causes",
+        "not automatically — pas automatiquement"
+      ],
+      "source": "Exercice original de compréhension, rédigé pour EDG Offline. Il ne s’agit pas d’un bulletin de la BBC ni d’une mise à jour en direct.",
+      "quiz": [
+        {
+          "id": "ukraine-q1",
+          "question": "Which systems can support both civilians and military logistics?",
+          "options": [
+            "Electricity, transport and communications",
+            "Only social media",
+            "Only diplomatic channels"
+          ],
+          "correctIndex": 0,
+          "explanation": "These systems are described as supporting daily life and military logistics."
+        },
+        {
+          "id": "ukraine-q2",
+          "question": "Can external assistance replace local capacity?",
+          "options": [
+            "Yes, completely",
+            "No",
+            "Only during a ceasefire"
+          ],
+          "correctIndex": 1,
+          "explanation": "The passage says assistance may help but cannot replace local capacity or political decisions."
+        },
+        {
+          "id": "ukraine-q3",
+          "question": "Does a pause in fighting automatically create a durable settlement?",
+          "options": [
+            "Yes",
+            "No",
+            "Only if it is monitored"
+          ],
+          "correctIndex": 1,
+          "explanation": "The final sentence distinguishes a pause from a lasting political settlement."
+        }
+      ]
+    },
+    {
+      "id": "red-sea-shipping",
+      "title": "The Red Sea: protecting commercial shipping",
+      "theme": "Sécurité maritime · accent américain",
+      "accent": "en-US",
+      "level": "B2 · intermédiaire avancé",
+      "materialType": "Texte pédagogique original · scénario stratégique",
+      "english": "A threat to commercial shipping can affect far more than the vessels in the area. When attacks or warnings make a route unsafe, companies may divert ships around a longer passage. The result can be higher fuel costs, delayed deliveries and pressure on supply chains. Naval forces may escort merchant ships, share surveillance information or help intercept incoming threats. These tasks involve difficult choices: a defensive response must protect crews while avoiding unnecessary escalation. Freedom of navigation is a principle of international law, but it does not mean that every route is risk-free. A maritime operation must also explain its mandate, limits and rules of engagement.",
+      "french": "Une menace contre la navigation commerciale peut affecter bien davantage que les navires présents dans la zone. Lorsque des attaques ou des avertissements rendent une route dangereuse, les entreprises peuvent détourner leurs bâtiments par un itinéraire plus long. Cela peut entraîner une hausse du coût du carburant, des retards et des tensions sur les chaînes d’approvisionnement. Les forces navales peuvent escorter les navires marchands, partager des informations de surveillance ou aider à intercepter des menaces. Ces missions impliquent des choix difficiles : une réponse défensive doit protéger les équipages tout en évitant une escalade inutile. La liberté de navigation est un principe du droit international, mais elle ne signifie pas que toute route soit sans risque. Une opération maritime doit aussi expliquer son mandat, ses limites et ses règles d’engagement.",
+      "vocabulary": [
+        "commercial shipping — navigation commerciale",
+        "to divert a ship — détourner un navire",
+        "supply chain — chaîne d’approvisionnement",
+        "rules of engagement — règles d’engagement",
+        "to intercept — intercepter"
+      ],
+      "expressions": [
+        "to affect far more than — affecter bien davantage que",
+        "to avoid unnecessary escalation — éviter une escalade inutile",
+        "risk-free — sans risque"
+      ],
+      "source": "Exercice original inspiré des enjeux de sécurité maritime. Pour les informations officielles américaines, consulter le lien « U.S. Department of Defense » dans la rubrique des ressources authentiques.",
+      "quiz": [
+        {
+          "id": "redsea-q1",
+          "question": "Why might shipping companies divert vessels?",
+          "options": [
+            "To make journeys shorter",
+            "Because a route is considered unsafe",
+            "To avoid all ports"
+          ],
+          "correctIndex": 1,
+          "explanation": "The text explains that threats can make a route unsafe and lead to a longer diversion."
+        },
+        {
+          "id": "redsea-q2",
+          "question": "What is one possible effect of rerouting ships?",
+          "options": [
+            "Lower fuel use in every case",
+            "Delayed deliveries and higher costs",
+            "The end of supply chains"
+          ],
+          "correctIndex": 1,
+          "explanation": "Longer passages can increase fuel costs and delay deliveries."
+        },
+        {
+          "id": "redsea-q3",
+          "question": "What must a maritime operation explain?",
+          "options": [
+            "Its mandate, limits and rules of engagement",
+            "The private contracts of every ship",
+            "A guaranteed absence of risk"
+          ],
+          "correctIndex": 0,
+          "explanation": "These elements clarify what the operation is authorised to do."
+        }
+      ]
+    },
+    {
+      "id": "indo-pacific-briefing",
+      "title": "The Indo-Pacific: deterrence and cooperation",
+      "theme": "Briefing défense · accent américain",
+      "accent": "en-US",
+      "level": "C1 · avancé",
+      "materialType": "Texte pédagogique original · synthèse stratégique",
+      "english": "The Indo-Pacific is not a single theatre with one shared set of priorities. Governments in the region balance trade, territorial claims, domestic politics and security partnerships. Naval presence can reassure partners, improve awareness of activity at sea and signal political commitment. It can also be interpreted as pressure, especially when ships operate close to contested areas. Cooperation therefore depends on communication, predictable behaviour and respect for international law. Exercises can improve interoperability, but they do not remove disagreements between partners. A useful briefing separates confirmed activity from interpretation, identifies whose interests are involved and explains what evidence would change the assessment.",
+      "french": "L’Indopacifique n’est pas un théâtre unique où tous partagent les mêmes priorités. Les gouvernements de la région arbitrent entre commerce, revendications territoriales, politique intérieure et partenariats de sécurité. La présence navale peut rassurer les partenaires, améliorer la connaissance des activités en mer et signaler un engagement politique. Elle peut aussi être interprétée comme une pression, surtout lorsque des navires opèrent près de zones contestées. La coopération dépend donc de la communication, d’un comportement prévisible et du respect du droit international. Les exercices améliorent l’interopérabilité, mais n’effacent pas les désaccords. Un briefing rigoureux distingue l’activité confirmée de son interprétation, identifie les intérêts en jeu et précise quelles preuves pourraient modifier l’analyse.",
+      "vocabulary": [
+        "territorial claim — revendication territoriale",
+        "naval presence — présence navale",
+        "contested area — zone contestée",
+        "interoperability — interopérabilité",
+        "assessment — appréciation / évaluation"
+      ],
+      "expressions": [
+        "to balance competing priorities — arbitrer entre des priorités concurrentes",
+        "to be interpreted as — être interprété comme",
+        "to separate fact from interpretation — distinguer les faits de leur interprétation"
+      ],
+      "source": "Exercice original. Il ne reproduit pas un briefing du Pentagone ; les ressources officielles sont accessibles séparément dans la rubrique des sources authentiques.",
+      "quiz": [
+        {
+          "id": "indo-q1",
+          "question": "Why can naval presence be interpreted in different ways?",
+          "options": [
+            "It can reassure partners or be seen as pressure",
+            "It always violates international law",
+            "It has no political meaning"
+          ],
+          "correctIndex": 0,
+          "explanation": "The text says presence can reassure but may also be perceived as pressure."
+        },
+        {
+          "id": "indo-q2",
+          "question": "What do exercises help improve?",
+          "options": [
+            "Interoperability",
+            "Agreement on every political issue",
+            "The removal of territorial claims"
+          ],
+          "correctIndex": 0,
+          "explanation": "Exercises can improve interoperability but do not erase disagreements."
+        },
+        {
+          "id": "indo-q3",
+          "question": "What should a rigorous briefing distinguish?",
+          "options": [
+            "Confirmed activity and its interpretation",
+            "Only friendly governments",
+            "Facts from all context"
+          ],
+          "correctIndex": 0,
+          "explanation": "The passage emphasises separating confirmed activity from analysis."
+        }
+      ]
+    },
+    {
+      "id": "press-briefing-questions",
+      "title": "At a press briefing: asking precise questions",
+      "theme": "Médias et défense · accent britannique",
+      "accent": "en-GB",
+      "level": "B2 · intermédiaire avancé",
+      "materialType": "Dialogue pédagogique original",
+      "english": "Journalist: Can you confirm whether the exercise has ended, and what the stated objective was?\nSpokesperson: The sea phase concluded yesterday. The exercise focused on communications, search and rescue, and coordination between participating units.\nJournalist: Were any live weapons used?\nSpokesperson: Some units conducted live-fire training in a designated area. I cannot comment on operational details that remain classified.\nJournalist: What would you say to residents concerned about safety?\nSpokesperson: Notices to mariners were issued in advance, and the exercise area was monitored. We will publish a summary after the participating forces have completed their review.",
+      "french": "Journaliste : Pouvez-vous confirmer que l’exercice est terminé et préciser son objectif annoncé ?\nPorte-parole : La phase maritime s’est achevée hier. L’exercice portait sur les communications, le sauvetage en mer et la coordination entre unités participantes.\nJournaliste : Des armes réelles ont-elles été utilisées ?\nPorte-parole : Certaines unités ont effectué des tirs réels dans une zone désignée. Je ne peux pas commenter les détails opérationnels qui restent classifiés.\nJournaliste : Que répondez-vous aux habitants préoccupés par la sécurité ?\nPorte-parole : Des avis aux navigateurs ont été publiés à l’avance et la zone d’exercice a été surveillée. Nous publierons un bilan après l’analyse des forces participantes.",
+      "vocabulary": [
+        "to confirm — confirmer",
+        "stated objective — objectif annoncé",
+        "live-fire — tir réel",
+        "classified — classifié",
+        "notice to mariners — avis aux navigateurs"
+      ],
+      "expressions": [
+        "Can you confirm whether…? — Pouvez-vous confirmer si… ?",
+        "I cannot comment on… — Je ne peux pas commenter…",
+        "after the review — après l’analyse / l’examen"
+      ],
+      "source": "Dialogue pédagogique original simulant une conférence de presse. Ce n’est pas une transcription officielle du Department of Defense.",
+      "quiz": [
+        {
+          "id": "press-q1",
+          "question": "What were the stated exercise objectives?",
+          "options": [
+            "Communications, search and rescue, and coordination",
+            "A change of national borders",
+            "Commercial negotiations"
+          ],
+          "correctIndex": 0,
+          "explanation": "The spokesperson lists communications, search and rescue, and coordination."
+        },
+        {
+          "id": "press-q2",
+          "question": "Why does the spokesperson decline to discuss some details?",
+          "options": [
+            "They remain classified",
+            "The exercise has not started",
+            "The journalist asked in French"
+          ],
+          "correctIndex": 0,
+          "explanation": "The spokesperson says some operational details remain classified."
+        },
+        {
+          "id": "press-q3",
+          "question": "What is a “notice to mariners”?",
+          "options": [
+            "A safety notice for people navigating at sea",
+            "A naval rank",
+            "A press conference transcript"
+          ],
+          "correctIndex": 0,
+          "explanation": "It is a notice informing mariners about relevant conditions or hazards."
+        }
+      ]
+    }
+  ]
+}
